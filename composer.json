@@ -1,0 +1,22 @@
+{
+  "name": "gitalsan/apt-authentication",
+  "description": "APT Authentication",
+  "type": "library",
+  "keywords": ["nette"],
+  "homepage": "https://github.com/GitAlsan/opt-authentication.git",
+  "license": ["MIT"],
+  "authors": [
+    {
+      "name": "Alsan",
+      "homepage": ""
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "GitAlsan\\Test\\": "src"
+    }
+  }
+}
